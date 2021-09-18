@@ -1,4 +1,11 @@
 # Programming-For-Big-Data-Project-1
+Project for the module COMP30770 Programming for Big Data
+
+
+Project: CLI (Bash) & Data Management for Big Data
+
+Broject Brief: COMP30770_2021_Project_11.pdf
+
 
 The dataset used for this project is reddit_20201.csv.
 I downloaded it with: wget csserver.ucd.ie/~thomas/reddit_2021.csv
