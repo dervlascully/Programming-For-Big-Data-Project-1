@@ -1,3 +1,5 @@
+Grade: 100% (A+)
+
 # Programming-For-Big-Data-Project-1
 Project for the module COMP30770 Programming for Big Data
 
